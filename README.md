@@ -1,2 +1,3 @@
 
-There is nothing permanant, exept change
+There is nothing permanant, except change
+
